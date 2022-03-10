@@ -1,6 +1,6 @@
 # Camping-availabilities-notification-bot
 
-Small bot that sends a notification to a Telegram bot when there are some availabilities in a super super popular camping place in Japan that is always full minutes after reservations are open.
+Small bot that sends a notification to a Telegram bot when there are some availabilities (for specific day like Saturday ... and specific accomodation type) in a super super popular camping place in Japan that is always full minutes after reservations are open.
 
 ![I want to go camping !!!](figure.png)
 

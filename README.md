@@ -5,6 +5,7 @@ Small bot that sends a notification to a Telegram bot when there are some availa
 ![I want to go camping !!!](figure.png)
 
 Disclaimer : This was made for study purposes. I have completely given up trying to get a reservation at this place. Please don't do anything bad with this kind of technology (scalping etc ...)
+Pictures are from the official website of the camping place !
 
 ## How to run
 You can run by using

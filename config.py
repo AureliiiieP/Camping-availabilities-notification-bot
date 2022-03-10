@@ -1,0 +1,1 @@
+telegram_bot_url = "https://api.telegram.org/xxx:xxx/sendMessage"

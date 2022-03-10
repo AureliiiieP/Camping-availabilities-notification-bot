@@ -2,6 +2,8 @@
 
 Small bot that sends a notification to a Telegram bot when there are some availabilities (for specific day like Saturday ... and specific accomodation type) in a super super popular camping place in Japan that is always full minutes after reservations are open.
 
+If there are no availability for chosen accomodation plan and day, no message is sent.
+
 ![I want to go camping !!!](figure.png)
 
 Disclaimer : This was made for study purposes. I have completely given up trying to get a reservation at this place. Please don't do anything bad with this kind of technology (scalping etc ...)

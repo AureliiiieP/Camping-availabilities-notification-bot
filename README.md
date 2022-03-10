@@ -31,7 +31,7 @@ crontab -e
 Then add the schedule expression. Please see this [site](https://crontab.guru/examples.html) for examples.
 For example every day at 3PM would be 
 ```
-0 15 * * *
+0 15 * * * /path/to/monitoring_bot.py
 ```
 
 Note. Please don't use this to do scalping !
